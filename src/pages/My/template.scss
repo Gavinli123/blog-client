@@ -1,4 +1,4 @@
-@import "../../assets/base.less";
+@import "../../assets/base.scss";
 
 #my,#user {
  
@@ -38,7 +38,7 @@
 
       span {
         display: block;
-        color: @textLighterColor;
+        color: $textLighterColor;
       }
 
       .day {
@@ -63,7 +63,7 @@
       font-size: 12px;
 
       a {
-        color: @themeLighterColor;
+        color: $themeLighterColor;
       }
       
     }

@@ -26,11 +26,11 @@ export default {
 }
 </script>
 
-<style lang="less">
-@import "../assets/base.less";
+<style lang="scss">
+@import "../assets/base.scss";
 .no-login {
   padding: 0 12% 30px 12%;
-  background: @bgColor;
+  background: $bgColor;
   display: grid;
   justify-items: center;
 
@@ -57,7 +57,7 @@ export default {
 
 .login{
   display: flex;
-  background: @bgColor;
+  background: $bgColor;
   align-items: center;
   h1{
     margin: 0;

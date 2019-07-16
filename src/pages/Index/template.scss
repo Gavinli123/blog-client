@@ -1,4 +1,4 @@
-@import "../../assets/base.less";
+@import "../../assets/base.scss";
 
 #index {
 
@@ -22,7 +22,7 @@
 
       figcaption {
         font-size: 12px;
-        color: @textLighterColor;
+        color: $textLighterColor;
       }
     }
 
@@ -31,7 +31,7 @@
       grid-row: 1;
 
       &>span {
-        color: @textLighterColor;
+        color: $textLighterColor;
         font-size: 12px;
         font-weight: normal;
       }

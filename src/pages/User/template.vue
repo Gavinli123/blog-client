@@ -2,7 +2,7 @@
   <div id="user">
     <section class="user-info">
       <img src="http://cn.gravatar.com/avatar/1?s=128&d=identicon" alt="" class="avatar">
-      <h3>若愚</h3>
+      <h3>李俊汶</h3>
     </section>
     <section>
       <div class="item">
@@ -31,4 +31,4 @@
 
 <script src="./template.js"></script>
 
-<style src="../My/template.less" lang="less"></style>
+<style src="../My/template.scss" lang="scss"></style>

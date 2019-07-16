@@ -4,7 +4,7 @@
       <div class="item">
         <figure class="avatar">
           <img src="http://cn.gravatar.com/avatar/1?s=128&d=identicon" alt />
-          <figcaption>若愚</figcaption>
+          <figcaption>李俊汶</figcaption>
         </figure>
         <h3>
           前端异步大揭秘
@@ -15,7 +15,7 @@
       <div class="item">
         <figure class="avatar">
           <img src="http://cn.gravatar.com/avatar/1?s=128&d=identicon" alt />
-          <figcaption>若愚</figcaption>
+          <figcaption>李俊汶</figcaption>
         </figure>
         <h3>
           前端异步大揭秘
@@ -29,4 +29,4 @@
 
 <script src="./template.js"></script>
 
-<style scoped lang="less" src="./template.less"></style>
+<style scoped lang="scss" src="./template.scss"></style>

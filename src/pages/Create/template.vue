@@ -16,4 +16,4 @@
 
 <script src="./template.js"></script>
 
-<style src="../Edit/template.less" lang="less"></style>
+<style src="../Edit/template.scss" lang="scss"></style>

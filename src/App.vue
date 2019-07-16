@@ -24,9 +24,9 @@ export default {
 }
 </script>
 
-<style lang="less">
+<style lang="scss">
 
-@import "./assets/common.less";
+@import "./assets/common.scss";
 
 html,body,#app{
   height: 100%;

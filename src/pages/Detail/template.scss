@@ -1,5 +1,5 @@
-@import "../../assets/base.less";
-@import "../../assets/article.less";
+@import "../../assets/base.scss";
+@import "../../assets/article.scss";
 
 #detail {
   .user-info {
@@ -33,10 +33,10 @@
 
       margin-top: 0;
       font-size: 12px;
-      color: @textLighterColor;
+      color: $textLighterColor;
 
       a {
-        color: @themeColor;
+        color: $themeColor;
         text-decoration: none;
       }
     }
